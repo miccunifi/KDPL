@@ -1,0 +1,4 @@
+ftfy==6.1.1
+regex
+tqdm
+open-clip-torch==2.24.0

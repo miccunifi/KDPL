@@ -6,7 +6,7 @@
 
 This is the **official repository** of the [**ECCV 2024 paper**](https://arxiv.org/abs/2407.03056) "*Improving Zero-shot Generalization of Learned Prompts via Unsupervised Knowledge Distillation*" by Marco Mistretta, Alberto Baldrati, Marco Bertini and Andrew David Bagdanov.
 
-🔥🔥 **[2024/08/09] Our code is now public available! Feel free to explore, use, and contribute to our repository!** 🔥🔥
+🔥🔥 **[2024/08/09] Our code is now public available! Feel free to explore, use, and contribute!** 🔥🔥
 
 ## Overview
 

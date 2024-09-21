@@ -3,7 +3,10 @@
 ### Improving Zero-shot Generalization of Learned Prompts via Unsupervised Knowledge Distillation
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2407.03056)
+[![ECCV](https://img.shields.io/badge/ECCV-Page-blue.svg)](https://eccv.ecva.net/virtual/2024/poster/823)
 [![Generic badge](https://img.shields.io/badge/Video-YouTube-red.svg)](https://www.youtube.com/watch?v=AhHIOX900GY)
+[![Generic badge](https://img.shields.io/badge/Slides-Link-orange.svg)](/assets/KDPL_slides.pdf)
+[![Generic badge](https://img.shields.io/badge/Poster-Link-purple.svg)](/assets/ECCV_poster.pdf)
 [![GitHub Stars](https://img.shields.io/github/stars/miccunifi/KDPL?style=social)](https://github.com/miccunifi/KDPL)
 
 This is the **official repository** of the [**ECCV 2024 paper**](https://arxiv.org/abs/2407.03056) "*Improving Zero-shot Generalization of Learned Prompts via Unsupervised Knowledge Distillation*" by Marco Mistretta, Alberto Baldrati, Marco Bertini and Andrew David Bagdanov.

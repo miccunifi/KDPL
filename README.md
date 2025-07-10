@@ -26,12 +26,12 @@ Our approach, which we call Knowledge Distillation Prompt Learning (KDPL), can b
 
 ## Citation
 ```bibtex
-@inproceedings{mistretta2025improving,
-  title={Improving Zero-shot Generalization of Learned Prompts via Unsupervised Knowledge Distillation},
+@inproceedings{mistretta2024improving,
+  title={Improving zero-shot generalization of learned prompts via unsupervised knowledge distillation},
   author={Mistretta, Marco and Baldrati, Alberto and Bertini, Marco and Bagdanov, Andrew D},
   booktitle={European Conference on Computer Vision},
   pages={459--477},
-  year={2025},
+  year={2024},
   organization={Springer}
 }
 ```
